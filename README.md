@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# A dieta carnívora;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Expliorando as IAs generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Utilizei a Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+fui no gerador de imagem da copilot e descrevi como queria e as características da imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Uma bela imagem em família.
+https://www.bing.com/images/create/2098919707/2-67992ae487af4ac7822d00380309ea05?id=oGas5jRSX3g%2brbmC2r6i7w%3d%3d&view=detailv2&idpp=genimg&genimgaad=1&thId=OIGBCE1.Muwx_MzeatiwH7WkSIV8&skey=o389v0S75iLUo2zIvoUCYnnQPtO8Yr7WlXzm69P6z-k&FORM=GCRIDP
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+quebrei bastante a cabeça para conseguir executar.
 ```
 
 ### Exemplos e Insigths
